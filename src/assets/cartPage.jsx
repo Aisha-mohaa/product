@@ -16,6 +16,7 @@ function CartPage() {
             className="w-24 h-24 object-cover rounded-md border"
             src={xogtda.image}
             alt={xogtda.title}
+            
             />
 
           <div>
